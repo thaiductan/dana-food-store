@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Web_Gradient"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../javascripts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascripts"
+	}
+}
